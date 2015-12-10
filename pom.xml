@@ -41,14 +41,7 @@
             <version>0.4.2</version>
         </dependency>
 
-        <!-- 添加 WebMagic-extension 依赖 -->
-        <dependency>
-            <groupId>us.codecraft</groupId>
-            <artifactId>webmagic-extension</artifactId>
-            <version>0.5.2</version>
-        </dependency>
-
-        <!-- 添加 slf4j-log4j12 依赖 -->
+        <!-- 添加 WebMagic-extension slf4j-log4j12 依赖 -->
         <dependency>
             <groupId>us.codecraft</groupId>
             <artifactId>webmagic-extension</artifactId>
